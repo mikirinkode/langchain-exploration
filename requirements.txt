@@ -1,0 +1,10 @@
+fastapi
+langchain-core
+langchain-openai
+langchain-community
+langchain
+langserve[all]
+python-dotenv
+beautifulsoup4
+faiss-cpu
+langchainhub
